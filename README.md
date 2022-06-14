@@ -1,2 +1,2 @@
 # business-card
-Solo project 1 of scrimba React course
+An old projject which was part of solo project 1 of scrimba React course
